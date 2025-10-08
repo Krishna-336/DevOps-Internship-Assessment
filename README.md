@@ -1,2 +1,1 @@
-# DevOps-Internship-Assessment
- Containerize and Deploy a Next.js Application using Docker, GitHub Actions, and Minikube
+
